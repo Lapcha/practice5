@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practice5</string>
+    <string name="titleMainFragment">Главный фрагмент</string>
+    <string name="titleSendDataToSecondFragment">Отправить данные во второй фрагмент</string>
+    <string name="titleSendDataToThirdFragment">Отправить данные в третий экран</string>
+    <string name="lastDataFromSecondFragment">Пока не было данных со сторого фрагмента</string>
+    <string name="lastDataFromThirdFragment">Пока не было данных с третьего фрагмента</string>
+    <string name="titleSecondFragment">Второй фрагмент</string>
+    <string name="titleSendDataToMainFragment">Отправить данные в главный фрагмент</string>
+    <string name="buttonSendData">Отправить</string>
+    <string name="lastDataFromMainFragment">Пока не было данных с главного фрагмента</string>
+    <string name="titleThirdFragment">Третий фрагмент</string>
+</resources>
